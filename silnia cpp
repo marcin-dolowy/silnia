@@ -1,5 +1,7 @@
+//silnia liczby a
 int silnia(int a)
 {
+    //s = dotychczasowy iloczyn silni
 	int s = 1;
 	for(int i = 1; i <= a; i++)
 	{
